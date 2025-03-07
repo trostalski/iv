@@ -1,5 +1,5 @@
 """
-Task: Create a simple text analyzer that:
+Create a simple text analyzer that:
 1. Counts word frequency in a given text
 2. Identifies the top N most common words
 3. Excludes common "stop words" like "the", "and", "a", etc.
